@@ -1,0 +1,17 @@
+body
+{
+	background-color: #ff8080;
+	font-family: sans-serif;
+}
+h1
+{
+	font-family: Cursive;
+}
+p{
+	text-align: center;
+}
+video{
+	width: 500px;
+	height: 500px;
+	align-items:center;
+}
